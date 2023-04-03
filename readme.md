@@ -21,7 +21,7 @@
   🌐 Links 🌐
   
   <a href="https://velog.io/@hongju904" target="_blank"><img src="https://img.shields.io/badge/앱개발 블로그-yellowgreen?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="hongju904@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-critical?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
+  <a href="mailto:hongju904@naver.com"><img src="https://img.shields.io/badge/Email-critical?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:hongju904@naver.com"/></a>
   
   <br>
   <br>
