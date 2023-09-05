@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"><br/>
   
-
-  
   <br>
   <br>
   
@@ -21,6 +19,13 @@
   
   <a href="https://velog.io/@hongju904" target="_blank"><img src="https://img.shields.io/badge/앱개발 블로그-yellowgreen?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:hongju904@naver.com"><img src="https://img.shields.io/badge/Email-critical?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:hongju904@naver.com"/></a>
+
+  <br>
+
+  💻 Projects 📚
+
+[VoiceKeeper](https://github.com/hongju904/VoiceKeeper) :: ``협업`` AI 기반 음성 데이터를 통한 '통화 녹음 저장 판단' 시스템   
+[GiftMap](https://github.com/hongju904/GiftMap) :: ``개인`` 소지중인 기프티콘 매장을 자동으로 지도에 표시하는 모바일 APP
   
   <br>
   <br>
